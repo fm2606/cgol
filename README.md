@@ -1,4 +1,4 @@
-#Conway's Game of Life
+# Conway's Game of Life
 
 An exercised "assigned" in CI Tutor for learning MPI programming:  https://www.citutor.org/content.php?cid=1295
 

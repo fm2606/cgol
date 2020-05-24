@@ -6,7 +6,7 @@ cgol.c -- rough draft that prints out matrix as 1's and 0's.  It doesn't use ncu
 
 cgol_nc.c -- using cgol.c as base adds ncurses to print out the game board.  Replaces 1s with asterisks and spaces for 0s.
 
-compile: 
-gcc -o cgol cgol.c -lncurses
-or
-gcc -o cgol_nc cgol_nc.c -lncurses
+compile:\
+gcc -o cgol cgol.c -lncurses\
+or\
+gcc -o cgol_nc cgol_nc.c -lncurses\
